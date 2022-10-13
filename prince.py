@@ -1,5 +1,5 @@
 # /bin/python ! 
- # https://github.com/PakPrince05/Prince1.git/ 
+ # https://github.com/pakprince1/ 
   
  from __future__ import absolute_import 
  from __future__ import print_function 
@@ -33,8 +33,7 @@
   
  \033[1;91mhackos\033[1;97m>>\033[1;92m ''') 
   
- banr = ("""\033[1;92m   ___           __      _  __ 
-
+ 
 ______     _                
 | ___ \   (_)               
 | |_/ / __ _ _ __   ___ ___ 
@@ -43,8 +42,8 @@ ______     _
 \_|  |_|  |_|_| |_|\___\___|
                             
                             
- 
- \033[1;91m<═══\033[1;41m\033[1;97m Created by PakPrince \033[;0m\033[1;91m═══>\033[1;92m""") 
+  
+ \033[1;91m<═══\033[1;41m\033[1;97m Created by MrHacker-X \033[;0m\033[1;91m═══>\033[1;92m""") 
   
  about = ("""\033[1;91m[\033[1;97m?\033[1;91m] \033[1;92mBruteforce Introduction: 
   
@@ -73,11 +72,11 @@ ______     _
  \033[1;97m➤ \033[1;92mProfile Link: \033[;94mhttps://instagram.com/0hacker_x0/ 
  \033[1;92m 
  \033[1;91m[\033[1;97m?\033[1;91m]\033[1;92m Facebook: 
- \033[1;97m➤ \033[1;92mUsername: hackerxmr 
+ \033[1;97m➤ \033[1;92mUsername: Pakprince
  \033[1;97m➤ \033[1;92mProfile Link:\033[1;94m https://facebook.com/hackerxmr/ 
  \033[1;92m 
  \033[1;91m[\033[1;97m?\033[1;91m]\033[1;92m Github: 
- \033[1;97m➤\033[1;92m Username: MrHacker-X 
+ \033[1;97m➤\033[1;92m Username: PakPrince
  \033[1;97m➤ \033[1;92mProfile Link:\033[1;94m https://github.com/MrHacker-X/ 
  \033[1;92m 
  \033[1;91m[\033[1;97m?\033[1;91m]\033[1;92m YouTube: 
